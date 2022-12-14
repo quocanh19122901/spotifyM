@@ -1,0 +1,7 @@
+.color-play {
+    background-color: rgb(51 65 85 / var(--tw-bg-opacity)) !important;
+}
+.rhap_time, .rhap_current-time {
+    color: white !important;
+
+}
